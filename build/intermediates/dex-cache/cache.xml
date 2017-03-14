@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hjl99\AndroidStudioProjects\huanxin\examples\RenderScriptDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c3122d341ca317d16910d64a4df3375fdc278ae">
+        <dex dex="C:\Users\hjl99\AndroidStudioProjects\huanxin\examples\RenderScriptDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_65a5159b613192ab5486349425cbcc31117db4e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hjl99\AndroidStudioProjects\huanxin\examples\RenderScriptDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f223edc0f6999c0e1ee5e788056698c7453ab24">
+        <dex dex="C:\Users\hjl99\AndroidStudioProjects\huanxin\examples\RenderScriptDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c5075120076c58343a12285f18e71b27bd4b7e97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hjl99\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\hjl99\AndroidStudioProjects\huanxin\examples\RenderScriptDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_eee15a513aa8695ce242fe83188fbf3400d1ffb0\classes.dex" />
+    </item>
+
+</items>

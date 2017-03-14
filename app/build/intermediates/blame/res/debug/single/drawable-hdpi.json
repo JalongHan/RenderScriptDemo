@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\hjl99\\AndroidStudioProjects\\huanxin\\examples\\RenderScriptDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\leaves.png",
+        "source": "C:\\Users\\hjl99\\AndroidStudioProjects\\huanxin\\examples\\RenderScriptDemo\\app\\src\\main\\res\\drawable-hdpi\\leaves.png"
+    },
+    {
+        "merged": "C:\\Users\\hjl99\\AndroidStudioProjects\\huanxin\\examples\\RenderScriptDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "C:\\Users\\hjl99\\AndroidStudioProjects\\huanxin\\examples\\RenderScriptDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\hjl99\\AndroidStudioProjects\\huanxin\\examples\\RenderScriptDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\hjl99\\AndroidStudioProjects\\huanxin\\examples\\RenderScriptDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
